@@ -43,7 +43,7 @@ To set up the project locally, follow these steps:
     ```
 3. Install requirements:
     ```bash
-    python -r requirements.txt 
+    pip install -r requirements.txt 
     ```
 4. Run code:
     ```bash
